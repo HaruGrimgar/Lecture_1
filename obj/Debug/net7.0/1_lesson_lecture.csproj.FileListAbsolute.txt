@@ -1,0 +1,15 @@
+C:\Users\29\OneDrive\Рабочий стол\geekbrains\1 четверть\2_Знакомство с языками програмирования\1_lesson_lecture\bin\Debug\net7.0\1_lesson_lecture.exe
+C:\Users\29\OneDrive\Рабочий стол\geekbrains\1 четверть\2_Знакомство с языками програмирования\1_lesson_lecture\bin\Debug\net7.0\1_lesson_lecture.deps.json
+C:\Users\29\OneDrive\Рабочий стол\geekbrains\1 четверть\2_Знакомство с языками програмирования\1_lesson_lecture\bin\Debug\net7.0\1_lesson_lecture.runtimeconfig.json
+C:\Users\29\OneDrive\Рабочий стол\geekbrains\1 четверть\2_Знакомство с языками програмирования\1_lesson_lecture\bin\Debug\net7.0\1_lesson_lecture.dll
+C:\Users\29\OneDrive\Рабочий стол\geekbrains\1 четверть\2_Знакомство с языками програмирования\1_lesson_lecture\bin\Debug\net7.0\1_lesson_lecture.pdb
+C:\Users\29\OneDrive\Рабочий стол\geekbrains\1 четверть\2_Знакомство с языками програмирования\1_lesson_lecture\obj\Debug\net7.0\1_lesson_lecture.csproj.AssemblyReference.cache
+C:\Users\29\OneDrive\Рабочий стол\geekbrains\1 четверть\2_Знакомство с языками програмирования\1_lesson_lecture\obj\Debug\net7.0\1_lesson_lecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\29\OneDrive\Рабочий стол\geekbrains\1 четверть\2_Знакомство с языками програмирования\1_lesson_lecture\obj\Debug\net7.0\1_lesson_lecture.AssemblyInfoInputs.cache
+C:\Users\29\OneDrive\Рабочий стол\geekbrains\1 четверть\2_Знакомство с языками програмирования\1_lesson_lecture\obj\Debug\net7.0\1_lesson_lecture.AssemblyInfo.cs
+C:\Users\29\OneDrive\Рабочий стол\geekbrains\1 четверть\2_Знакомство с языками програмирования\1_lesson_lecture\obj\Debug\net7.0\1_lesson_lecture.csproj.CoreCompileInputs.cache
+C:\Users\29\OneDrive\Рабочий стол\geekbrains\1 четверть\2_Знакомство с языками програмирования\1_lesson_lecture\obj\Debug\net7.0\1_lesson_lecture.dll
+C:\Users\29\OneDrive\Рабочий стол\geekbrains\1 четверть\2_Знакомство с языками програмирования\1_lesson_lecture\obj\Debug\net7.0\refint\1_lesson_lecture.dll
+C:\Users\29\OneDrive\Рабочий стол\geekbrains\1 четверть\2_Знакомство с языками програмирования\1_lesson_lecture\obj\Debug\net7.0\1_lesson_lecture.pdb
+C:\Users\29\OneDrive\Рабочий стол\geekbrains\1 четверть\2_Знакомство с языками програмирования\1_lesson_lecture\obj\Debug\net7.0\1_lesson_lecture.genruntimeconfig.cache
+C:\Users\29\OneDrive\Рабочий стол\geekbrains\1 четверть\2_Знакомство с языками програмирования\1_lesson_lecture\obj\Debug\net7.0\ref\1_lesson_lecture.dll
